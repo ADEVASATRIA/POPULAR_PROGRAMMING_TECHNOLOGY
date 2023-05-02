@@ -1,5 +1,5 @@
 # POPULAR_PROGRAMMING_TECHNOLOGY
-![THUMNAIL ](./(./gambar/nama_gambar.png)/thumnail.popular.png)
+![THUMNAIL ](./thumnail.popular.png)
 # DESKRIPSI 
   Berikut merupakan repository yang digunakan untuk menampung jawaban MID-EXAM dari POPULAR PROGRAMMING TECHNOLOGY.
   
