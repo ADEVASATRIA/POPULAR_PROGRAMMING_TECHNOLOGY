@@ -1,7 +1,7 @@
 # POPULAR_PROGRAMMING_TECHNOLOGY
 ![THUMNAIL ](./thumnail.popular.png)
 # DESKRIPSI 
-  Berikut merupakan repository yang digunakan untuk menampung jawaban MID-EXAM dari POPULAR PROGRAMMING TECHNOLOGY.
+  Berikut merupakan Folder rest_api yang digunakan untuk melakukan http Request.
   
  # DATA MAHASISWA 
    -  Nama  : Adeva Satria Arif Wibawa
